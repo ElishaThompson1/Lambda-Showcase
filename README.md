@@ -68,7 +68,7 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   <img src="docs/screenshots/results_watermarked.gif" width="280" />
 </p>
 
->>>>>>> e816e70 (docs(showcase): add dark+light UI screenshots and wire README preview)
+e816e70 (docs(showcase): add dark+light UI screenshots and wire README preview)
 ## What this is
 - UI/UX showcase only (no runnable code)
 - Architecture overview and images for hiring review
@@ -78,7 +78,6 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 - Live walkthrough available
 
 ## License & Trademarks
-<<<<<<< HEAD
 - Proprietary Evaluation‑Only (view on GitHub only). See 'LICENSE'.
 =======
 - Proprietary Evaluation‑Only (view on GitHub only). See `LICENSE`.
