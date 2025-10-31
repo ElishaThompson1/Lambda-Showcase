@@ -1,5 +1,6 @@
 # Sigma — Mobile Polling UI (Showcase, View-Only)
 
+<<<<<<< HEAD
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
 ## Preview
@@ -57,6 +58,17 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   - `assets/preview/hero-mockup.png` (1200–1600px wide)
   - `assets/screens/*.png` (min 1242×2688 if captured on device or 1080×2340 emulator)
 
+=======
+This repo is **screenshots + overview only**. For private code review under NDA, email [CONTACT EMAIL].
+
+## Preview
+<p align="center">
+  <img src="docs/screenshots/home_watermarked.png" width="280" />
+  <img src="docs/screenshots/poll_watermarked.png" width="280" />
+  <img src="docs/screenshots/results_watermarked.gif" width="280" />
+</p>
+
+>>>>>>> e816e70 (docs(showcase): add dark+light UI screenshots and wire README preview)
 ## What this is
 - UI/UX showcase only (no runnable code)
 - Architecture overview and images for hiring review
@@ -66,5 +78,9 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 - Live walkthrough available
 
 ## License & Trademarks
+<<<<<<< HEAD
 - Proprietary Evaluation‑Only (view on GitHub only). See 'LICENSE'.
+=======
+- Proprietary Evaluation‑Only (view on GitHub only). See `LICENSE`.
+>>>>>>> e816e70 (docs(showcase): add dark+light UI screenshots and wire README preview)
 - “Sigma” marks: all rights reserved.
