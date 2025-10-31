@@ -61,14 +61,6 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 =======
 This repo is **screenshots + overview only**. For private code review under NDA, email [CONTACT EMAIL].
 
-## Preview
-<p align="center">
-  <img src="docs/screenshots/home_watermarked.png" width="280" />
-  <img src="docs/screenshots/poll_watermarked.png" width="280" />
-  <img src="docs/screenshots/results_watermarked.gif" width="280" />
-</p>
-
-e816e70 (docs(showcase): add dark+light UI screenshots and wire README preview)
 ## What this is
 - UI/UX showcase only (no runnable code)
 - Architecture overview and images for hiring review
