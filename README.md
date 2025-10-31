@@ -3,11 +3,59 @@
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
 ## Preview
+
+<!-- Hero Mockup (presentation) -->
+<div align="center" style="margin: 12px 0;">
+  <!-- Replace with your Previewed.app export -->
+  <img src="assets/preview/hero-mockup.png" alt="Sigma App Hero Preview" width="900">
+</div>
+
+<!-- Thin brand divider -->
+<div align="center">
+  <img src="https://singlepixel.dev/1x1-000000.png" alt="" width="900" height="1">
+</div>
+
+### Screenshots
+
 <p align="center">
-  <img src="docs/screenshots/home_watermarked.png" width="280" />
-  <img src="docs/screenshots/poll_watermarked.png" width="280" />
-  <img src="docs/screenshots/results_watermarked.gif" width="280" />
+  <em>Real UI captures (light & dark). No device frames. High-res PNGs.</em>
 </p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Home</th>
+      <th>Poll</th>
+      <th>Results</th>
+      <th>Settings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- Replace paths with your actual files -->
+      <td><img src="assets/screens/home-dark.png" alt="Home - Dark" width="220"></td>
+      <td><img src="assets/screens/poll-dark.png" alt="Poll - Dark" width="220"></td>
+      <td><img src="assets/screens/results-dark.png" alt="Results - Dark" width="220"></td>
+      <td><img src="assets/screens/settings-dark.png" alt="Settings - Dark" width="220"></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screens/home-light.png" alt="Home - Light" width="220"></td>
+      <td><img src="assets/screens/poll-light.png" alt="Poll - Light" width="220"></td>
+      <td><img src="assets/screens/results-light.png" alt="Results - Light" width="220"></td>
+      <td><img src="assets/screens/settings-light.png" alt="Settings - Light" width="220"></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Brand Notes
+
+- **Palette:** `#2562BB` (Sigma Blue), `#9CA3AF` (Muted), `#111217` (Border/Divider), `#000000` (Dark BG), `#FFFFFF` (Light BG)
+- **Typography intent:** System fonts in repo; brand fonts applied in-app. README favors clarity over custom webfonts.
+- **Assets:**
+  - `assets/preview/hero-mockup.png` (1200–1600px wide)
+  - `assets/screens/*.png` (min 1242×2688 if captured on device or 1080×2340 emulator)
 
 ## What this is
 - UI/UX showcase only (no runnable code)
