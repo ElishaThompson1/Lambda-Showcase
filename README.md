@@ -1,6 +1,5 @@
 # Sigma — Mobile Polling UI (Showcase, View-Only)
 
-<<<<<<< HEAD
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
 ## Preview
