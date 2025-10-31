@@ -18,5 +18,5 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 - Live walkthrough available
 
 ## License & Trademarks
-- Proprietary Evaluation‑Only (view on GitHub only). See `LICENSE`.
+- Proprietary Evaluation‑Only (view on GitHub only). See 'LICENSE'.
 - “Sigma” marks: all rights reserved.
