@@ -33,16 +33,16 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   <tbody>
     <tr>
       <!-- Replace paths with your actual files -->
-      <td><img src="assets/screens/home-dark.png" alt="Home - Dark" width="220"></td>
-      <td><img src="assets/screens/poll-dark.png" alt="Poll - Dark" width="220"></td>
-      <td><img src="assets/screens/results-dark.png" alt="Results - Dark" width="220"></td>
-      <td><img src="assets/screens/settings-dark.png" alt="Settings - Dark" width="220"></td>
+      <td><img src="assets/screens/home-dark.png" alt="Home screen — dark mode" width="220"></td>
+      <td><img src="assets/screens/trending-dark.png" alt="Trending screen — dark mode" width="220"></td>
+      <td><img src="assets/screens/results-dark.png" alt="Results screen — dark mode" width="220"></td>
+      <td><img src="assets/screens/settings-dark.png" alt="Settings screen — dark mode" width="220"></td>
     </tr>
     <tr>
-      <td><img src="assets/screens/home-light.png" alt="Home - Light" width="220"></td>
-      <td><img src="assets/screens/poll-light.png" alt="Poll - Light" width="220"></td>
-      <td><img src="assets/screens/results-light.png" alt="Results - Light" width="220"></td>
-      <td><img src="assets/screens/settings-light.png" alt="Settings - Light" width="220"></td>
+      <td><img src="assets/screens/home-light.png" alt="Home screen — light mode" width="220"></td>
+      <td><img src="assets/screens/trending-light.png" alt="Trending screen — light mode" width="220"></td>
+      <td><img src="assets/screens/results-light.png" alt="Results screen — light mode" width="220"></td>
+      <td><img src="assets/screens/settings-light.png" alt="Settings screen — light mode" width="220"></td>
     </tr>
   </tbody>
 </table>
