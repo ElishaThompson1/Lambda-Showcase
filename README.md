@@ -17,46 +17,24 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 
 ### Screenshots
 
-<p align="center">
-  <em>Real UI captures (light & dark). No device frames. High-res PNGs.</em>
-</p>
+> Each column represents a page in Lambda.  
+> Row 1 – Titles Row 2 – Light Mode Row 3 – Dark Mode.
 
-<table>
-  <thead>
-    <tr>
-      <th>Home</th>
-      <th>Poll</th>
-      <th>Results</th>
-      <th>Settings</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- Replace paths with your actual files -->
-      <td><img src="assets/screens/home-light.png" alt="Home screen — light mode" width="220"></td>
-      <td><img src="assets/screens/trending-light.png" alt="Trending screen — light mode" width="220"></td>
-      <td><img src="assets/screens/results-light.png" alt="Results screen — light mode" width="220"></td>
-      <td><img src="assets/screens/settings-light.png" alt="Settings screen — light mode" width="220"></td>
-    </tr>
-      <td><img src="assets/screens/home-dark.png" alt="Home screen — dark mode" width="220"></td>
-      <td><img src="assets/screens/trending-dark.png" alt="Trending screen — dark mode" width="220"></td>
-      <td><img src="assets/screens/results-dark.png" alt="Results screen — dark mode" width="220"></td>
-      <td><img src="assets/screens/settings-dark.png" alt="Settings screen — dark mode" width="220"></td>
-    </tr>
-    <tr>
-      
-  </tbody>
-</table>
+| Dashboard | Budgets | Accounts | Transactions | Settings |
+|---|---|---|---|---|
+| ![dashboard-light](./assets/screens/dashboard-light.png) | ![budgets-light](./assets/screens/budgets-light.png) | ![accounts-light](./assets/screens/accounts-light.png) | ![transactions-light](./assets/screens/transactions-light.png) | ![settings-light](./assets/screens/settings-light.png) |
+| ![dashboard-dark](./assets/screens/dashboard-dark.png) | ![budgets-dark](./assets/screens/budgets-dark.png) | ![accounts-dark](./assets/screens/accounts-dark.png) | ![transactions-dark](./assets/screens/transactions-dark.png) | ![settings-dark](./assets/screens/settings-dark.png) |
+
 
 ---
 
 ### Brand Notes
 
-- **Palette:** `#2562BB` (Sigma Blue), `#9CA3AF` (Muted), `#111217` (Border/Divider), `#000000` (Dark BG), `#FFFFFF` (Light BG)
+- **Palette:** #2562BB (Blue), #9CA3AF (Muted), #111217 (Border/Divider), #000000 (Dark BG), #FFFFFF (Light BG)
 - **Typography intent:** System fonts in repo; brand fonts applied in-app. README favors clarity over custom webfonts.
 - **Assets:**
-  - `assets/preview/hero-mockup.png` (1200–1600px wide)
-  - `assets/screens/*.png` (min 1242×2688 if captured on device or 1080×2340 emulator)
+  - assets/preview/hero-mockup.png (1200–1600px wide)
+  - assets/screens/*.png (min 1242×2688 if captured on device or 1080×2340 emulator)
 
 =======
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
