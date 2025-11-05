@@ -15,7 +15,10 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   <img src="https://singlepixel.dev/1x1-000000.png" alt="" width="900" height="1">
 </div>
 
-## Screens
+## Screenshots
+
+> Each column = a page.  
+> Row 2 = Light Mode • Row 3 = Dark Mode.
 
 <table>
   <thead>
@@ -28,19 +31,21 @@ This repo is **screenshots + overview only**. For private code review under NDA,
     </tr>
   </thead>
   <tbody>
+    <!-- Light row -->
     <tr>
-      <td><img src="./assets/screens/dashboard-light2.png" alt="dashboard-light2" width="360" height="760"></td>
-      <td><img src="./assets/screens/budgets-light.png" alt="budgets-light" width="360" height="760"></td>
-      <td><img src="./assets/screens/accounts-light.png" alt="accounts-light" width="360" height="760"></td>
-      <td><img src="./assets/screens/transactions-light2.png" alt="transactions-light2" width="360" height="760"></td>
-      <td><img src="./assets/screens/settings-light.png" alt="settings-light" width="360" height="760"></td>
+      <td><img src="./assets/screens/dashboard-light2.png" alt="dashboard-light2" width="360"></td>
+      <td><img src="./assets/screens/budgets-light.png" alt="budgets-light" width="360"></td>
+      <td><img src="./assets/screens/accounts-light.png" alt="accounts-light" width="360"></td>
+      <td><img src="./assets/screens/transactions-light2.png" alt="transactions-light2" width="360"></td>
+      <td><img src="./assets/screens/settings-light.png" alt="settings-light" width="360"></td>
     </tr>
+    <!-- Dark row -->
     <tr>
-      <td><img src="./assets/screens/dashboard-dark2.png" alt="dashboard-dark2" width="360" height="760"></td>
-      <td><img src="./assets/screens/budgets-dark.png" alt="budgets-dark" width="360" height="760"></td>
-      <td><img src="./assets/screens/accounts-dark.png" alt="accounts-dark" width="360" height="760"></td>
-      <td><img src="./assets/screens/transactions-dark2.png" alt="transactions-dark2" width="360" height="760"></td>
-      <td><img src="./assets/screens/settings-dark.png" alt="settings-dark" width="360" height="760"></td>
+      <td><img src="./assets/screens/dashboard-dark2.png" alt="dashboard-dark2" width="360"></td>
+      <td><img src="./assets/screens/budgets-dark.png" alt="budgets-dark" width="360"></td>
+      <td><img src="./assets/screens/accounts-dark.png" alt="accounts-dark" width="360"></td>
+      <td><img src="./assets/screens/transactions-dark2.png" alt="transactions-dark2" width="360"></td>
+      <td><img src="./assets/screens/settings-dark.png" alt="settings-dark" width="360"></td>
     </tr>
   </tbody>
 </table>
