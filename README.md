@@ -7,7 +7,7 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 <!-- Hero Mockup (presentation) -->
 <div align="center" style="margin: 12px 0;">
   <!-- Replace with your Previewed.app export -->
-  <img src="assets/preview/hero-mockup.png" alt="Sigma App Hero Preview" width="900">
+  <img src="assets/preview/lambda-mockup.png" alt="Sigma App Hero Preview" width="900">
 </div>
 
 <!-- Thin brand divider -->
