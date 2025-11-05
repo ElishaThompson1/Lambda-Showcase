@@ -17,9 +17,6 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 
 ## Screenshots
 
-> Each column = a page.  
-> Row 2 = Light Mode • Row 3 = Dark Mode.
-
 <table>
   <thead>
     <tr>
