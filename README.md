@@ -29,17 +29,17 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   </thead>
   <tbody>
     <tr>
-      <td><img src="./assets/screens/dashboard-light.png" alt="dashboard-light" width="360" height="760"></td>
+      <td><img src="./assets/screens/dashboard-light2.png" alt="dashboard-light" width="360" height="760"></td>
       <td><img src="./assets/screens/budgets-light.png" alt="budgets-light" width="360" height="760"></td>
       <td><img src="./assets/screens/accounts-light.png" alt="accounts-light" width="360" height="760"></td>
-      <td><img src="./assets/screens/transactions-light.png" alt="transactions-light" width="360" height="760"></td>
+      <td><img src="./assets/screens/transactions-light2.png" alt="transactions-light" width="360" height="760"></td>
       <td><img src="./assets/screens/settings-light.png" alt="settings-light" width="360" height="760"></td>
     </tr>
     <tr>
-      <td><img src="./assets/screens/dashboard-dark.png" alt="dashboard-dark" width="360" height="760"></td>
+      <td><img src="./assets/screens/dashboard-dark2.png" alt="dashboard-dark" width="360" height="760"></td>
       <td><img src="./assets/screens/budgets-dark.png" alt="budgets-dark" width="360" height="760"></td>
       <td><img src="./assets/screens/accounts-dark.png" alt="accounts-dark" width="360" height="760"></td>
-      <td><img src="./assets/screens/transactions-dark.png" alt="transactions-dark" width="360" height="760"></td>
+      <td><img src="./assets/screens/transactions-dark2.png" alt="transactions-dark" width="360" height="760"></td>
       <td><img src="./assets/screens/settings-dark.png" alt="settings-dark" width="360" height="760"></td>
     </tr>
   </tbody>
