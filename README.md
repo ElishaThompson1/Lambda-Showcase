@@ -1,4 +1,4 @@
-# Sigma — Mobile Polling UI (Showcase, View-Only)
+# Lambda — Mobile Finance/Budgeting UI (Showcase, View-Only)
 
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
@@ -71,4 +71,4 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 
 ## License & Trademarks
 - Proprietary Evaluation‑Only (view on GitHub only). See 'LICENSE'.
-- “Sigma” marks: all rights reserved.
+- “Lambda” marks: all rights reserved.
