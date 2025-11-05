@@ -15,15 +15,37 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   <img src="https://singlepixel.dev/1x1-000000.png" alt="" width="900" height="1">
 </div>
 
-### Screenshots
+## Screenshots
 
-> Each column represents a page in Lambda.  
-> Row 1 – Titles Row 2 – Light Mode Row 3 – Dark Mode.
-
-| Dashboard | Budgets | Accounts | Transactions | Settings |
-|---|---|---|---|---|
-| ![dashboard-light](./assets/screens/dashboard-light.png) | ![budgets-light](./assets/screens/budgets-light.png) | ![accounts-light](./assets/screens/accounts-light.png) | ![transactions-light](./assets/screens/transactions-light.png) | ![settings-light](./assets/screens/settings-light.png) |
-| ![dashboard-dark](./assets/screens/dashboard-dark.png) | ![budgets-dark](./assets/screens/budgets-dark.png) | ![accounts-dark](./assets/screens/accounts-dark.png) | ![transactions-dark](./assets/screens/transactions-dark.png) | ![settings-dark](./assets/screens/settings-dark.png) |
+<table>
+  <thead>
+    <tr>
+      <th>Dashboard</th>
+      <th>Budgets</th>
+      <th>Accounts</th>
+      <th>Transactions</th>
+      <th>Settings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Light row -->
+    <tr>
+      <td><img src="./assets/screens/dashboard-light.png" alt="dashboard-light" width="360"></td>
+      <td><img src="./assets/screens/budgets-light.png" alt="budgets-light" width="360"></td>
+      <td><img src="./assets/screens/accounts-light.png" alt="accounts-light" width="360"></td>
+      <td><img src="./assets/screens/transactions-light.png" alt="transactions-light" width="360"></td>
+      <td><img src="./assets/screens/settings-light.png" alt="settings-light" width="360"></td>
+    </tr>
+    <!-- Dark row -->
+    <tr>
+      <td><img src="./assets/screens/dashboard-dark.png" alt="dashboard-dark" width="360"></td>
+      <td><img src="./assets/screens/budgets-dark.png" alt="budgets-dark" width="360"></td>
+      <td><img src="./assets/screens/accounts-dark.png" alt="accounts-dark" width="360"></td>
+      <td><img src="./assets/screens/transactions-dark.png" alt="transactions-dark" width="360"></td>
+      <td><img src="./assets/screens/settings-dark.png" alt="settings-dark" width="360"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
